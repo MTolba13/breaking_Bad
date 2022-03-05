@@ -92,7 +92,7 @@ class CharachtersDetailsScreen extends StatelessWidget {
             Shadow(
               blurRadius: 7,
               color: MyColors.myYellow,
-              offset: Offset(0, 0),
+              offset: Offset(0, 2),
             ),
           ]),
           child: AnimatedTextKit(
